@@ -1,0 +1,12 @@
+
+Name = 'Python Exiv2'
+
+Description = 'Python Wrapper of C++ Exiv2'
+
+[Links]
+Repository = 'https://github.com/jim-easterbrook/python-exiv2'
+
+
+[[Issue]]
+Closed = false
+Url = 'https://github.com/jim-easterbrook/python-exiv2/issues/44'

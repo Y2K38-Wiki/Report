@@ -1,0 +1,18 @@
+
+Name = 'CCache'
+
+Description = 'C / C++ Compiler Cache'
+
+[Links]
+Repository = 'https://github.com/ccache/ccache'
+Website = 'https://ccache.dev'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://github.com/ccache/ccache/issues/1524'
+
+
+[[Merge]]
+Closed = true
+Url = 'https://github.com/ccache/ccache/pull/1525'

@@ -1,0 +1,13 @@
+
+Name = 'CPython'
+
+Description = 'The Python Programming Language'
+
+[Links]
+Repository = 'https://github.com/python/cpython'
+Website = 'https://www.python.org/'
+
+
+[[Issue]]
+Closed = false
+Url = 'https://github.com/python/cpython/issues/124851'

@@ -1,0 +1,18 @@
+
+Name = 'NAME'
+
+Description = 'DESCRIPTION'
+
+[Links]
+Repository = 'REPOSITORY'
+Website = 'WEBSITE'
+
+
+[[Issue]]
+Closed = STATUS
+Url = 'URL'
+
+
+[[Merge]]
+Closed = STATUS
+Url = 'URL'

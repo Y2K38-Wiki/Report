@@ -1,0 +1,13 @@
+
+Name = 'Taskwarrior'
+
+Description = 'Command Line Task Manager'
+
+[Links]
+Repository = 'https://github.com/GothenburgBitFactory/taskwarrior'
+Website = 'https://taskwarrior.org/'
+
+
+[[Merge]]
+Closed = true
+Url = 'https://github.com/GothenburgBitFactory/taskwarrior/pull/3052'

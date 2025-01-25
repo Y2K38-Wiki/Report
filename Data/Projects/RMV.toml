@@ -1,0 +1,21 @@
+
+Name = 'RMW'
+
+Description = 'Command Line Trash Utility'
+
+[Links]
+Repository = 'https://github.com/theimpossibleastronaut/rmw'
+Website = 'https://theimpossibleastronaut.com/rmw-website/'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://github.com/theimpossibleastronaut/rmw/issues/439'
+
+[[Merge]]
+Closed = true
+Url = 'https://github.com/theimpossibleastronaut/rmw/pull/442'
+
+[[Merge]]
+Closed = true
+Url = 'https://github.com/theimpossibleastronaut/rmw/pull/444'

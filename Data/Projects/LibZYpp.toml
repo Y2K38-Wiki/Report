@@ -1,0 +1,13 @@
+
+Name = 'LibZYpp'
+
+Description = 'ZYpp Package Management library'
+
+[Links]
+Repository = 'https://github.com/openSUSE/libzypp'
+Website = 'https://doc.opensuse.org/projects/libzypp/HEAD/'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://github.com/openSUSE/libzypp/issues/559'

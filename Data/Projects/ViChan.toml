@@ -1,0 +1,13 @@
+
+Name = 'ViChan'
+
+Description = 'Imageboard Software'
+
+[Links]
+Repository = 'https://github.com/vichan-devel/vichan'
+Website = 'https://vichan.info'
+
+
+[[Issue]]
+Closed = false
+Url = 'https://github.com/vichan-devel/vichan/issues/879'

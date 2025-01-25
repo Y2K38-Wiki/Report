@@ -1,0 +1,18 @@
+
+Name = 'wxWidgets'
+
+Description = 'Cross Platform C++ GUI Library'
+
+[Links]
+Repository = 'https://github.com/wxWidgets/wxWidgets'
+Website = 'https://www.wxwidgets.org/'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://github.com/wxWidgets/wxWidgets/issues/24414'
+
+
+[[Merge]]
+Closed = true
+Url = 'https://github.com/wxWidgets/wxWidgets/pull/24464'
