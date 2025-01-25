@@ -33,4 +33,6 @@ Right now collecting issues is the best way of helping.
 
 - Use the template found in `/Data/Project-Template.toml`
 
+    Remove sections you don't need / have.
+
 - Create a pull request
