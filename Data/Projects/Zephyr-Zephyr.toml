@@ -1,0 +1,13 @@
+
+Name = 'Zephyr'
+
+Description = 'Realtime Operating System'
+
+[Links]
+Repository = 'https://github.com/zephyrproject-rtos/zephyr'
+Website = 'https://docs.zephyrproject.org/latest/'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://github.com/zephyrproject-rtos/zephyr/issues/77681'

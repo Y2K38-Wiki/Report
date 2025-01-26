@@ -19,6 +19,8 @@ Search page for the list of known open / closed issues relating to Y2K38 issues.
 
 Right now collecting issues is the best way of helping.
 
+*And correcting collected information.*
+
 ### Workflow
 
 - Find issue not yet indexed
@@ -37,7 +39,10 @@ Right now collecting issues is the best way of helping.
 
 - If possible make one commit for each project / issue / merge
 
-    Use the title `Indexed <Organization>/<Project>#<Issue/Merge>
+    Add a reference to the issue(s) / merge(s) in the 
+    commit description in the following format : 
+    
+    `<Organization>/<Project>#<Issue/Merge>
 
     -> `SoftwareMakers/ToolX#234`
 
