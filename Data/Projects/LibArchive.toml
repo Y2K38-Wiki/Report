@@ -8,6 +8,11 @@ Repository = 'REPOSITORY'
 Website = 'https://www.libarchive.org/'
 
 
+[[Issue]]
+Closed = true
+Url = 'https://github.com/libarchive/libarchive/issues/2329'
+
+
 [[Merge]]
 Closed = true
 Url = 'https://github.com/libarchive/libarchive/pull/1836'
