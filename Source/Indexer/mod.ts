@@ -28,6 +28,8 @@ const Project = z.object({
 
 
 const index = new Array<{
+    issues : number
+    merges : number
     name : string
     file : string
 }>()
@@ -64,6 +66,8 @@ for ( const name of names ){
         continue
 
     index.push({
+        issues : data.Issue?.length ?? 0 ,
+        merges : data.Merge?.length ?? 0 ,
         name : data.Name ,
         file : name.split('.').at(0)!
     })
