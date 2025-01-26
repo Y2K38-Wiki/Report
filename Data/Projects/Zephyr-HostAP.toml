@@ -1,0 +1,12 @@
+
+Name = 'Zephyr - HostAP'
+
+Description = 'WLAN Driver'
+
+[Links]
+Repository = 'https://github.com/zephyrproject-rtos/hostap'
+
+
+[[Merge]]
+Closed = true
+Url = 'https://github.com/zephyrproject-rtos/hostap/pull/34'
