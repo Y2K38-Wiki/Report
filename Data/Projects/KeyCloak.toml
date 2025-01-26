@@ -1,0 +1,13 @@
+
+Name = 'KeyCloak'
+
+Description = 'Identity and Access Management Tool'
+
+[Links]
+Repository = 'https://github.com/keycloak/keycloak'
+Website = 'https://www.keycloak.org/'
+
+
+[[Issue]]
+Closed = false
+Url = 'https://github.com/keycloak/keycloak/issues/35104'
