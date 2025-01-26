@@ -7,9 +7,9 @@ Search page for the list of known open / closed issues relating to Y2K38 issues.
 
 ## Status
 
-- Collecting issues
+- Collecting more issues
 
-- Working on indexing process
+- Improving indexer
 
 - Working on search page
 
