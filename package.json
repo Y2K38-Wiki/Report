@@ -1,19 +1,24 @@
 {
     "scripts": {
-        "index": "bun run ./Source/Indexer/mod.ts" ,
-        "watch" : "clear && bun build --watch --outfile ./WWW/App.js ./Source/Website/mod.ts" ,
-        "build" : "bun build --outfile ./WWW/App.js ./Source/Website/mod.ts" ,
-        "serve:install" : "deno install --global --allow-net --allow-read --name serve jsr:@std/http/file-server" ,
-        "serve" : "clear && serve ./WWW"
+        "index:dev": "bun run --watch ./Source/Indexer/mod.ts",
+        "index:build": "bun run ./Source/Indexer/mod.ts",
+        "watch": "clear && bun build --watch --outfile ./WWW/App.js ./Source/Website/mod.ts",
+        "build": "bun build --outfile ./WWW/App.js ./Source/Website/mod.ts",
+        "serve:install": "deno install --global --allow-net --allow-read --name serve jsr:@std/http/file-server",
+        "serve": "clear && serve ./WWW"
     },
     "devDependencies": {
-        "@types/react-dom": "^19.0.3" ,
-        "@types/react": "^19.0.8" 
+        "@types/react-dom": "^19.0.3",
+        "@types/react": "^19.0.8",
+        "@types/bun": "^1.2.0"
     },
     "dependencies": {
-        "typescript" : "^5.7.3" ,
+        "@std/toml": "npm:@jsr/std__toml",
         "fuse.js": "^7.0.0",
         "react": "^19.0.0",
-        "react-dom": "^19.0.0"
+        "react-dom": "^19.0.0",
+        "typescript": "^5.7.3",
+        "zod": "^3.24.1",
+        "zod-validation-error": "^3.4.0"
     }
 }
