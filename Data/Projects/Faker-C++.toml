@@ -1,0 +1,13 @@
+
+Name = 'Faker C++'
+
+Description = 'Fake Realistic Data Generation Library'
+
+[Links]
+Repository = 'https://github.com/cieslarmichal/faker-cxx'
+Website = 'https://cieslarmichal.github.io/faker-cxx/'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://github.com/cieslarmichal/faker-cxx/issues/936'
