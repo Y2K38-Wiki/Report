@@ -42,7 +42,7 @@ Right now collecting issues is the best way of helping.
     Add a reference to the issue(s) / merge(s) in the 
     commit description in the following format : 
     
-    `<Organization>/<Project>#<Issue/Merge>
+    `\<Organization>/\<Project>#<Issue/Merge>
 
     -> `SoftwareMakers/ToolX#234`
 
