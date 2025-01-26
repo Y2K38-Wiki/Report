@@ -35,4 +35,10 @@ Right now collecting issues is the best way of helping.
 
     Remove sections you don't need / have.
 
+- If possible make one commit for each project / issue / merge
+
+    Use the title `Indexed <Organization>/<Project>#<Issue/Merge>
+
+    -> `SoftwareMakers/ToolX#234`
+
 - Create a pull request
