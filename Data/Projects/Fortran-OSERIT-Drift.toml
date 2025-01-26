@@ -1,0 +1,14 @@
+
+Name = 'Fortran - OSERIT Drift'
+
+Description = 'Oil Spill Evaluation & Response Integrated Tool'
+
+
+[Links]
+Repository = 'https://github.com/naturalsciences/OSERIT-drift'
+Website = 'WEBSITE'
+
+
+[[Issue]]
+Closed = false
+Url = 'https://github.com/naturalsciences/OSERIT-drift/issues/1'
