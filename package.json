@@ -2,7 +2,7 @@
     "scripts": {
         "index": "bun run ./Source/Indexer/mod.ts" ,
         "watch" : "clear && bun build --watch --outfile ./WWW/App.js ./Source/Website/mod.ts" ,
-        "build" : "clear && bun build --outfile ./WWW/App.js ./Source/Website/mod.ts" ,
+        "build" : "bun build --outfile ./WWW/App.js ./Source/Website/mod.ts" ,
         "serve:install" : "deno install --global --allow-net --allow-read --name serve jsr:@std/http/file-server" ,
         "serve" : "clear && serve ./WWW"
     },

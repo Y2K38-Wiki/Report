@@ -19,7 +19,7 @@ root = true
 end_of_line = lf
 
 
-[*.{editorconfig,toml,css,tsx,ts,md}]
+[*.{editorconfig,toml,yml,css,tsx,ts,md}]
 
 trim_trailing_whitespace = true
 insert_final_newline = true

@@ -22,7 +22,7 @@ permissions:
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   # Single deploy job since we're just deploying
@@ -32,6 +32,8 @@ jobs:
 
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch all history for git info
 
       - uses: oven-sh/setup-bun@v2
 
@@ -45,14 +47,18 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: 'WWW'
+          path: WWW
 
   deploy:
+
     needs: build
+
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+
     runs-on: ubuntu-latest
+    
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
