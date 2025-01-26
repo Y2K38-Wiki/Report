@@ -1,0 +1,12 @@
+
+Name = 'ProcPS'
+
+Description = 'procfs Command Line Browser'
+
+[Links]
+Repository = 'https://gitlab.com/procps-ng/procps'
+
+
+[[Issue]]
+Closed = false
+Url = 'https://gitlab.com/procps-ng/procps/-/issues/362'

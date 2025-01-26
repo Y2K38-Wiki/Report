@@ -1,0 +1,13 @@
+
+Name = 'Perl - Date::Calc::XS'
+
+Description = 'XS Wrapper & C Library Plugin for Date::Calc'
+
+[Links]
+Repository = 'https://build.opensuse.org/package/show/devel:languages:perl/perl-Date-Calc-XS'
+Website = 'https://metacpan.org/dist/Date-Calc-XS'
+
+
+[[Merge]]
+Closed = true
+Url = 'https://build.opensuse.org/request/show/1080634'

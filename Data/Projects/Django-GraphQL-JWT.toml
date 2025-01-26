@@ -1,0 +1,13 @@
+
+Name = 'Django GraphQL JWT'
+
+Description = 'JWT authentication for Graphene Django'
+
+[Links]
+Repository = 'https://github.com/flavors/django-graphql-jwt'
+Website = 'https://django-graphql-jwt.domake.io/'
+
+
+[[Issue]]
+Closed = false
+Url = 'https://github.com/flavors/django-graphql-jwt/issues/318'

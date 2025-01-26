@@ -1,0 +1,13 @@
+
+Name = 'Python - CX_Freeze'
+
+Description = 'Python Executable Builder'
+
+[Links]
+Repository = 'https://github.com/marcelotduarte/cx_Freeze'
+Website = 'https://marcelotduarte.github.io/cx_Freeze/'
+
+
+[[Merge]]
+Closed = true
+Url = 'https://github.com/marcelotduarte/cx_Freeze/pull/1860'

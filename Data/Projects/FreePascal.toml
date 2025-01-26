@@ -1,0 +1,13 @@
+
+Name = 'FreePascal'
+
+Description = 'DESCRIPTION'
+
+[Links]
+Repository = 'https://gitlab.com/freepascal.org/fpc/source'
+Website = 'https://www.freepascal.org/'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://gitlab.com/freepascal.org/fpc/source/-/issues/40552'

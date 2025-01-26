@@ -1,0 +1,13 @@
+
+Name = 'Perl - HTTP Cookies'
+
+Description = 'Cookie Library'
+
+[Links]
+Repository = 'https://github.com/libwww-perl/HTTP-Cookies'
+Website = 'https://metacpan.org/pod/HTTP::Cookies'
+
+
+[[Merge]]
+Closed = true
+Url = 'https://github.com/libwww-perl/HTTP-Cookies/pull/72'

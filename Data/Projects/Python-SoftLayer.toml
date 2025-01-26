@@ -1,0 +1,13 @@
+
+Name = 'Python - SoftLayer'
+
+Description = 'SoftLayer API Wrapper'
+
+[Links]
+Repository = 'https://github.com/softlayer/softlayer-python'
+Website = 'WEBSITE'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://github.com/softlayer/softlayer-python/issues/1764'

@@ -1,0 +1,18 @@
+
+Name = 'MemCached'
+
+Description = 'Distributed Memory Object Caching System'
+
+[Links]
+Repository = 'https://github.com/memcached/memcached'
+Website = 'https://memcached.org/'
+
+
+[[Merge]]
+Closed = false
+Url = 'https://github.com/memcached/memcached/pull/927'
+
+
+[[Merge]]
+Closed = false
+Url = 'https://github.com/memcached/memcached/pull/1074'

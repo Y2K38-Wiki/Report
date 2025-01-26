@@ -1,0 +1,13 @@
+
+Name = 'Python - STDNum'
+
+Description = 'Python Library for Number Operations'
+
+[Links]
+Repository = 'https://github.com/arthurdejong/python-stdnum'
+Website = 'https://arthurdejong.org/python-stdnum/'
+
+
+[[Issue]]
+Closed = false
+Url = 'https://github.com/arthurdejong/python-stdnum/issues/431'

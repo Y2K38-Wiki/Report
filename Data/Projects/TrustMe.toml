@@ -1,0 +1,13 @@
+
+Name = 'NAME'
+
+Description = 'TLS Certificate Generator'
+
+[Links]
+Repository = 'https://github.com/python-trio/trustme'
+Website = 'https://trustme.readthedocs.io/en/latest/'
+
+
+[[Merge]]
+Closed = true
+Url = 'https://github.com/python-trio/trustme/pull/620'

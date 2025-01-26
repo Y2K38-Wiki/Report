@@ -1,0 +1,13 @@
+
+Name = 'Nim'
+
+Description = 'Statically Typed Compiled Systems Programming Language'
+
+[Links]
+Repository = 'https://github.com/nim-lang/Nim'
+Website = 'https://nim-lang.org/'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://github.com/nim-lang/Nim/issues/20285'

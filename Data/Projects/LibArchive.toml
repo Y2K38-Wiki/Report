@@ -1,0 +1,17 @@
+
+Name = 'LibArchive'
+
+Description = 'Multi-format Archive & Compression Library'
+
+[Links]
+Repository = 'REPOSITORY'
+Website = 'https://www.libarchive.org/'
+
+
+[[Merge]]
+Closed = true
+Url = 'https://github.com/libarchive/libarchive/pull/1836'
+
+[[Merge]]
+Closed = true
+Url = 'https://github.com/libarchive/libarchive/pull/1838'

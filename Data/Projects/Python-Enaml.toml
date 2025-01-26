@@ -1,0 +1,13 @@
+
+Name = 'Python - Enaml'
+
+Description = 'UI Framework'
+
+[Links]
+Repository = 'https://github.com/nucleic/enaml'
+Website = 'https://enaml.readthedocs.io/en/latest/'
+
+
+[[Merge]]
+Closed = true
+Url = 'https://github.com/nucleic/enaml/pull/516/files'

@@ -1,0 +1,13 @@
+
+Name = 'OpenSuse - Python'
+
+Description = 'OpenSuse Package of Python'
+
+[Links]
+Repository = 'https://build.opensuse.org/package/show/devel:languages:python:Factory/python'
+Website = 'WEBSITE'
+
+
+[[Merge]]
+Closed = true
+Url = 'Uhttps://build.opensuse.org/request/show/1003076RL'

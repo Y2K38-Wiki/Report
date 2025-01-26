@@ -1,0 +1,13 @@
+
+Name = 'Python - SNMP'
+
+Description = 'Python Library for the SNMP Protocol'
+
+[Links]
+Repository = 'https://github.com/lextudio/pysnmp'
+Website = 'https://docs.lextudio.com/pysnmp/v7.1/'
+
+
+[[Issue]]
+Closed = false
+Url = 'https://github.com/lextudio/pysnmp/pull/36'

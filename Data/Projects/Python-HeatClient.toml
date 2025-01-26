@@ -1,0 +1,13 @@
+
+Name = 'Python - HeatClient'
+
+Description = 'Client for the OpenStack Heat API'
+
+[Links]
+Repository = 'https://review.opendev.org/q/project:openstack/python-heatclient'
+Website = 'https://docs.openstack.org/python-heatclient/latest/'
+
+
+[[Merge]]
+Closed = true
+Url = 'https://review.opendev.org/c/openstack/python-heatclient/+/855083'

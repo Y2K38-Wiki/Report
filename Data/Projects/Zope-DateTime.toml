@@ -1,0 +1,17 @@
+
+Name = 'Zope - DateTime'
+
+Description = 'Zope like DateTime Data Type'
+
+[Links]
+Repository = 'https://github.com/zopefoundation/DateTime'
+Website = 'WEBSITE'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://github.com/zopefoundation/DateTime/issues/56'
+
+[[Issue]]
+Closed = true
+Url = 'https://github.com/zopefoundation/DateTime/issues/41'

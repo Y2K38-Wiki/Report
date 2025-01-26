@@ -1,0 +1,12 @@
+
+Name = 'Perl - Time::Moment'
+
+Description = 'Moment Library'
+
+[Links]
+Repository = 'https://github.com/chansen/p5-time-moment'
+
+
+[[Merge]]
+Closed = true
+Url = 'https://github.com/chansen/p5-time-moment/pull/48'

@@ -8,6 +8,10 @@ Repository = 'https://github.com/GothenburgBitFactory/taskwarrior'
 Website = 'https://taskwarrior.org/'
 
 
+[[Issue]]
+Closed = true
+Url = 'https://github.com/GothenburgBitFactory/taskwarrior/issues/3050'
+
 [[Merge]]
 Closed = true
 Url = 'https://github.com/GothenburgBitFactory/taskwarrior/pull/3052'

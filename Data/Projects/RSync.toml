@@ -1,0 +1,13 @@
+
+Name = 'RSync'
+
+Description = 'File Transfer Utility'
+
+[Links]
+Repository = 'https://github.com/RsyncProject/rsync'
+Website = 'https://rsync.samba.org/'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://github.com/RsyncProject/rsync/issues/366'

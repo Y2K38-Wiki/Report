@@ -1,0 +1,13 @@
+
+Name = 'Mercurial'
+
+Description = 'Source Control Management Tool'
+
+[Links]
+Repository = 'https://repo.mercurial-scm.org/hg/file/tip'
+Website = 'https://www.mercurial-scm.org/'
+
+
+[[Issue]]
+Closed = false
+Url = 'https://bz.mercurial-scm.org/show_bug.cgi?id=6778'

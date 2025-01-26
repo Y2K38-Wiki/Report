@@ -1,0 +1,13 @@
+
+Name = 'XEmacs'
+
+Description = 'Customizable Text Editor'
+
+[Links]
+Repository = 'https://build.opensuse.org/package/show/M17N/xemacs'
+Website = 'https://www.xemacs.org/'
+
+
+[[Merge]]
+Closed = true
+Url = 'https://build.opensuse.org/request/show/1058331'

@@ -1,0 +1,13 @@
+
+Name = 'Perl - Date::Calc'
+
+Description = 'Gregorian Calender Library'
+
+[Links]
+Repository = 'https://build.opensuse.org/package/show/devel:languages:perl/perl-Date-Calc'
+Website = 'https://metacpan.org/dist/Date-Calc'
+
+
+[[Merge]]
+Closed = true
+Url = 'https://build.opensuse.org/request/show/1072525'

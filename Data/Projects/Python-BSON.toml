@@ -1,0 +1,13 @@
+
+Name = 'Python - BSON'
+
+Description = 'BSON Codec for Python'
+
+[Links]
+Repository = 'https://github.com/py-bson/bson'
+Website = 'WEBSITE'
+
+
+[[Issue]]
+Closed = false
+Url = 'https://github.com/py-bson/bson/pull/117'

@@ -1,0 +1,33 @@
+
+Name = 'OpenSuse Tumbleweed'
+
+Description = 'Desktop & Server Operating System'
+
+[Links]
+Website = 'https://get.opensuse.org/tumbleweed/'
+
+
+[[Issue]]
+Closed = false
+Url = 'https://bugzilla.opensuse.org/show_bug.cgi?id=1203310'
+
+[[Issue]]
+Closed = false
+Url = 'https://bugzilla.opensuse.org/show_bug.cgi?id=1203982'
+
+[[Issues]]
+Closed = false
+Url = 'https://bugzilla.opensuse.org/show_bug.cgi?id=1208969'
+
+[[Issue]]
+Closed = false
+Url = 'https://bugzilla.opensuse.org/show_bug.cgi?id=1217049'
+
+[[Issue]]
+Closed = false
+Url = 'https://bugzilla.opensuse.org/show_bug.cgi?id=1223169'
+
+[[Issue]]
+Closed = false
+Url = 'https://bugzilla.opensuse.org/show_bug.cgi?id=1226200'
+

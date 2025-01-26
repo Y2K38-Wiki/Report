@@ -1,0 +1,13 @@
+
+Name = 'Perl - Net::DNS'
+
+Description = 'DNS Resolver'
+
+[Links]
+Repository = 'https://www.net-dns.org/svn/'
+Website = 'https://www.net-dns.org/'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://rt.cpan.org/Public/Bug/Display.html?id=149456'

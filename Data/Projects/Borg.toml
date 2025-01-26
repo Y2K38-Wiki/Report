@@ -1,0 +1,13 @@
+
+Name = 'Borg'
+
+Description = 'Deduplicating Archiver'
+
+[Links]
+Repository = 'https://github.com/borgbackup/borg'
+Website = 'https://www.borgbackup.org/'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://github.com/borgbackup/borg/issues/6996'

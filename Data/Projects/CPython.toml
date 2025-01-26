@@ -10,4 +10,8 @@ Website = 'https://www.python.org/'
 
 [[Issue]]
 Closed = false
+Url = 'https://github.com/python/cpython/issues/101069'
+
+[[Issue]]
+Closed = false
 Url = 'https://github.com/python/cpython/issues/124851'
