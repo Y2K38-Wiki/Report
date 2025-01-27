@@ -1,0 +1,13 @@
+
+Name = 'Apache - Arrow'
+
+Description = 'Data Interchange & Memory Analytics'
+
+[Links]
+Repository = 'https://github.com/apache/arrow'
+Website = 'https://arrow.apache.org/'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://github.com/apache/arrow/issues/41446'
