@@ -5,6 +5,10 @@ Search page for the list of known open / closed issues relating to Y2K38 issues.
 
 <br/>
 
+[![Badge - Discord]][Discord]
+
+<br/>
+
 ## Status
 
 - Collecting more issues
@@ -67,3 +71,6 @@ Right now collecting issues is the best way of helping.
     -> `SoftwareMakers/ToolX#234`
 
 - Create a pull request
+
+[Badge - Discord]: https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&labelColor=%235865F2&color=%235865F2
+[Discord]: https://discord.gg/a5RhQWXawN
