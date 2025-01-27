@@ -1,0 +1,13 @@
+
+Name = 'phpMyAdmin'
+
+Description = 'SQL & MariaDB Web Interface'
+
+[Links]
+Repository = 'https://github.com/phpmyadmin/phpmyadmin'
+Website = 'https://www.phpmyadmin.net/'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://github.com/phpmyadmin/phpmyadmin/issues/19133'
