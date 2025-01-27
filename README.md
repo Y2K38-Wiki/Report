@@ -15,6 +15,26 @@ Search page for the list of known open / closed issues relating to Y2K38 issues.
 
 <br/>
 
+## Search Ideas & Aspects
+
+- Client side processing only
+
+- Optimize index to key less values -> CSV?
+
+- Quick search for projects with / without open issues / merges
+
+- Add tags to project data / search
+
+- Client side pagination
+
+- Use url params for query & page
+
+- Lazy loaded project icons
+
+- Link repository / website
+
+<br/>
+
 ## Contributions
 
 Right now collecting issues is the best way of helping.
