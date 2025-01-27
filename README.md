@@ -5,6 +5,10 @@ Search page for the list of known open / closed issues relating to Y2K38 issues.
 
 <br/>
 
+[![Badge - Discord]][Discord]
+
+<br/>
+
 ## Status
 
 - Collecting more issues
@@ -12,6 +16,26 @@ Search page for the list of known open / closed issues relating to Y2K38 issues.
 - Improving indexer
 
 - Working on search page
+
+<br/>
+
+## Search Ideas & Aspects
+
+- Client side processing only
+
+- Optimize index to key less values -> CSV?
+
+- Quick search for projects with / without open issues / merges
+
+- Add tags to project data / search
+
+- Client side pagination
+
+- Use url params for query & page
+
+- Lazy loaded project icons
+
+- Link repository / website
 
 <br/>
 
@@ -47,3 +71,6 @@ Right now collecting issues is the best way of helping.
     -> `SoftwareMakers/ToolX#234`
 
 - Create a pull request
+
+[Badge - Discord]: https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&labelColor=%235865F2&color=%235865F2
+[Discord]: https://discord.gg/a5RhQWXawN
