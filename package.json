@@ -14,6 +14,7 @@
     },
     "dependencies": {
         "@std/toml": "npm:@jsr/std__toml",
+        "@tanstack/react-query": "^5.64.2",
         "fuse.js": "^7.0.0",
         "react": "^19.0.0",
         "react-dom": "^19.0.0",

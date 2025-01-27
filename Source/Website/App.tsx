@@ -1,16 +1,18 @@
 
 export { App }
 
-import { useSearch } from './Fuse'
+import { QueryClientProvider , QueryClient } from '@tanstack/react-query'
+import { Search } from './Search'
+
+
+const client = new QueryClient()
 
 
 function App (){
 
-    const { search } = useSearch()
-
     return (
-        <div>
-            Testing
-        </div>
+        <QueryClientProvider client = { client } >
+            <Search />
+        </QueryClientProvider>
     )
 }
