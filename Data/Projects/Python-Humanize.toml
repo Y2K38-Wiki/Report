@@ -1,0 +1,18 @@
+
+Name = 'Python - Humanize'
+
+Description = 'Human Readability Library'
+
+[Links]
+Repository = 'https://github.com/python-humanize/humanize'
+Website = 'https://humanize.readthedocs.io/'
+
+
+[[Issue]]
+Closed = true
+Url = 'https://github.com/python-humanize/humanize/issues/176'
+
+
+[[Merge]]
+Closed = true
+Url = 'https://github.com/python-humanize/humanize/pull/177'
